@@ -1,0 +1,13 @@
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\bin\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.deps.json
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\bin\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.runtimeconfig.json
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\bin\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.runtimeconfig.dev.json
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\bin\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.dll
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\bin\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.pdb
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\bin\Debug\netcoreapp2.0\SoloDev.ManualMapper.dll
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\bin\Debug\netcoreapp2.0\SoloDev.ManualMapper.pdb
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\obj\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\obj\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\obj\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.AssemblyInfoInputs.cache
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\obj\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.AssemblyInfo.cs
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\obj\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.dll
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper.ConsoleTest\obj\Debug\netcoreapp2.0\SoloDev.ManualMapper.ConsoleTest.pdb

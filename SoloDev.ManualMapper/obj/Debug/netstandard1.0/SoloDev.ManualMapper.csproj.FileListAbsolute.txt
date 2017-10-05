@@ -1,0 +1,9 @@
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper\bin\Debug\netstandard1.0\SoloDev.ManualMapper.deps.json
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper\bin\Debug\netstandard1.0\SoloDev.ManualMapper.dll
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper\bin\Debug\netstandard1.0\SoloDev.ManualMapper.pdb
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper\obj\Debug\netstandard1.0\SoloDev.ManualMapper.csprojResolveAssemblyReference.cache
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper\obj\Debug\netstandard1.0\SoloDev.ManualMapper.csproj.CoreCompileInputs.cache
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper\obj\Debug\netstandard1.0\SoloDev.ManualMapper.AssemblyInfoInputs.cache
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper\obj\Debug\netstandard1.0\SoloDev.ManualMapper.AssemblyInfo.cs
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper\obj\Debug\netstandard1.0\SoloDev.ManualMapper.dll
+C:\Users\vojdan\Documents\Visual Studio 2017\Projects\SoloDev.ManualMapper\SoloDev.ManualMapper\obj\Debug\netstandard1.0\SoloDev.ManualMapper.pdb
